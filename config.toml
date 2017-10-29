@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://jaber.xyz/"
+baseurl = "http://jaber.xyz/"
 # themesDir = "hugo-cactus-theme"
 languageCode = "en-us"
 title = "Jaber Zarif - Front-End Developer"
