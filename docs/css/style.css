@@ -44,13 +44,14 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* Spacing */
 .post h1, h3, h4, h5, p, .post-body ul, ol, pre {
 margin-bottom: 20px;
+font-family: ubuntu, Helvetica, Arial, sans-serif;
 }
 
 /* Base */
 html, body { height: 100%; }
 
 body {
-	font:16px/1 icons, Helvetica, Arial, sans-serif;
+	font:16px/1 ubuntu, Helvetica, Arial, sans-serif;
 	color: #666;
 	background-color: 
 	-webkit-font-smoothing: antialiased;
@@ -62,6 +63,7 @@ h1 {
 	letter-spacing: -1px;
 	color: #222;
 	font-weight: bold;
+	font-family: ubuntu, Helvetica, Arial, sans-serif;
 }
 
 h2 {
@@ -94,6 +96,7 @@ h2 {
 	letter-spacing: 0px;
 	font-size: 20px;
 	color: #222;
+	font-family: ubuntu, Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
@@ -214,6 +217,7 @@ em, i { font-style: italic; }
 	letter-spacing: -1px;
 	color: #222;
 	font-weight: bold;
+	font-family: ubuntu, Helvetica, Arial, sans-serif;
 }
 
 .home h2 {
