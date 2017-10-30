@@ -13,8 +13,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* Icons */
 @font-face {
 	font-family: 'icons';
-		src: url('../fonts/icons.eot');
-		src: url('../fonts/icons.eot#iefix') format('embedded-opentype'),
+		src: url('../fonts/Ubuntu-Regular.ttf'),
 		url('../fonts/icons.woff') format('woff'),
 		url('../fonts/icons.ttf') format('truetype'),
 		url('../fonts/icons.svg#icons') format('svg');
@@ -51,7 +50,7 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:16px/1 icons, Helvetica, Arial, sans-serif;
 	color: #666;
 	background-color: 
 	-webkit-font-smoothing: antialiased;
@@ -102,7 +101,7 @@ h2 {
 	  font-weight: 300;
 	  color: #5badf0;
 	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	  font-family: icons, Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
