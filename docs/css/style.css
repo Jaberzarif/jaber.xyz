@@ -12,7 +12,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 /* Icons */
 @font-face {
-	font-family: 'icons';
+	font-family: 'ubuntu';
 		src: url('../fonts/Ubuntu-Regular.ttf'),
 		url('../fonts/icons.woff') format('woff'),
 		url('../fonts/icons.ttf') format('truetype'),
@@ -22,7 +22,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
-	font-family: "icons";
+	font-family: "ubuntu";
 	font-style: normal;
 	font-weight: normal;
 	speak: none;
@@ -101,7 +101,7 @@ h2 {
 	  font-weight: 300;
 	  color: #5badf0;
 	  margin-top: 10px;
-	  font-family: icons, Helvetica, Arial, sans-serif;
+	  font-family: ubuntu, Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
@@ -297,10 +297,10 @@ hr {
 	background: #eee;
 }
 
-span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+span.code { font-family:ubuntu, Monaco, Courier; background-color:#EEE; font-size:14px; }
 
 pre	{
-	font-family:Menlo, Monaco, Courier;
+	font-family:ubuntu, Monaco, Courier;
 	white-space:pre-wrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
@@ -309,7 +309,7 @@ pre	{
 	overflow:auto;
 	border-radius: 3px;
 	background: #272b2d;
-	  font-family: 'Source Code Pro',Menlo,monospace;
+	  font-family: ubuntu ,Menlo, monospace;
 	  font-size: 13px;
 	  line-height: 1.5em;
 	  font-weight: 500;
@@ -663,7 +663,7 @@ a.symbol:hover {
 }
 
 code { 
-	font-family:Menlo, Monaco, Courier; 
+	font-family:ubuntu, Monaco, Courier; 
 	background-color:#EEE; font-size:14px; 
 	padding: 4px; 
 	font-weight: 600;
