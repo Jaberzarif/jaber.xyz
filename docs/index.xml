@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>How to Make your website responsive</title>
+      <title>How to install wordpress in your PC</title>
       <link>http://jaber.xyz/post/how-to-make-website-resp/</link>
       <pubDate>Sun, 29 Oct 2017 13:52:20 +0100</pubDate>
       
       <guid>http://jaber.xyz/post/how-to-make-website-resp/</guid>
-      <description>Using CSS media queries Today we will learn how to use media queries effectively.</description>
+      <description>How to install wordpress in your PC For intsall wordpress in your pc you have to do 4 steps :
+ Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
     </item>
     
     <item>

@@ -53,7 +53,6 @@ html, body { height: 100%; }
 body {
 	font:16px/1 ubuntu, Helvetica, Arial, sans-serif;
 	color: #666;
-	background-color: 
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
