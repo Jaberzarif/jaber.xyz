@@ -17,8 +17,7 @@
       <pubDate>Sun, 29 Oct 2017 13:52:20 +0100</pubDate>
       
       <guid>http://jaber.xyz/post/how-to-make-website-resp/</guid>
-      <description>How to install wordpress in your PC For intsall wordpress in your pc you have to do 4 steps :
- Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
+      <description>For intsall wordpress in your pc you have to do 4 steps :  Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
     </item>
     
     <item>
