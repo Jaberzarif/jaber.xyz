@@ -81,7 +81,20 @@ h2 {
 	text-align: center;
 	position: relative;
 }
-
+.navg a {
+	font-size: 18px;
+	margin-right: 10px;
+}
+.navg a:hover {
+	color: black;
+}
+.navg ul {
+	list-style: none;
+}
+.navg li {
+	display: inline-block;
+	border-right: 1px solid #5badf0;
+}
 .profile #avatar {
 	display: inline-block;
 	width: 80px;
