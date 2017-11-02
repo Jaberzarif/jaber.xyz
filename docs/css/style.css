@@ -55,6 +55,9 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	background-image: url("../images/1511.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 h1 {
@@ -84,12 +87,13 @@ h2 {
 }
 .navg {
 	margin-top: 30px;
-	border-bottom: 2px solid #5badf0;
-	border-top: 2px solid #5badf0;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
 }
 .navg a {
 	font-size: 18px;
 	margin-right: 10px;
+	color: #175C97;
 }
 .navg a:hover {
 	color: black;
@@ -100,7 +104,7 @@ h2 {
 }
 .navg li {
 	display: inline-block;
-	border-right: 1px solid #5badf0;
+	border-right: 1px solid black;
 }
 .profile #avatar {
 	display: inline-block;
@@ -113,15 +117,15 @@ h2 {
 .profile h1 {
 	font-weight: 400;
 	letter-spacing: 0px;
-	font-size: 20px;
+	font-size: 28px;
 	color: #222;
 	font-family: ubuntu, Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
-	font-size: 16px;
+	  font-size: 16px;
 	  font-weight: 300;
-	  color: #5badf0;
+	  color: black;
 	  margin-top: 10px;
 	  font-family: ubuntu, Helvetica, Arial, sans-serif;
 	  font-style: normal;
@@ -139,6 +143,7 @@ nav.main-nav {
 	text-align: right;
 	/*position: fixed;*/
 	z-index: 100;
+	display: none;
 }
 
 nav.main-nav a {
@@ -150,6 +155,7 @@ nav.main-nav a {
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
+	display: none;
 
 }
 nav.main-nav a.cta {
@@ -273,7 +279,7 @@ em, i { font-style: italic; }
 	/*font: italic 22px/1.3em Georgia,serif;*/
 	font: normal 13px/1.5em ubuntu,Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
-	color: #b2b9be;
+	color: black;
 	  font-size: 13px;
 	  text-transform: uppercase;
 	  letter-spacing: 2px;
