@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jaber Zarif - Front-End Developer</title>
+    <link>http://jaber.xyz/about/</link>
+    <description>Recent content in Abouts on Jaber Zarif - Front-End Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2017 13:30:10 +0100</lastBuildDate>
+    
+	<atom:link href="http://jaber.xyz/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Index</title>
+      <link>http://jaber.xyz/about/</link>
+      <pubDate>Sun, 29 Oct 2017 13:30:10 +0100</pubDate>
+      
+      <guid>http://jaber.xyz/about/</guid>
+      <description>About me&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
