@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/projects/photography/</loc>
+    <lastmod>2017-11-13T12:21:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/design/</loc>
+    <lastmod>2017-11-13T12:21:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/writing/</loc>
+    <lastmod>2017-11-13T12:21:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/how-to-make-website-resp/</loc>
+    <lastmod>2017-10-29T13:52:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/how-to-make-website-resp/</loc>
+    <lastmod>2017-10-29T13:52:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/hi-all/</loc>
+    <lastmod>2017-10-29T13:10:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/hi-all/</loc>
+    <lastmod>2017-10-29T13:10:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2017-03-09T13:23:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2017-03-09T13:19:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-11-13T12:21:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/code/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-10-29T13:52:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <lastmod>2017-11-13T12:21:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

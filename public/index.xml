@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerial</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aerial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jaber Zarif 2018 - </copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photography</title>
+      <link>http://example.org/projects/photography/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>http://example.org/projects/photography/</guid>
+      <description>Sometimes I take pictures. This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://example.org/projects/design/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>http://example.org/projects/design/</guid>
+      <description>This theme was designed by Vicky Lai. Go on, explore! 💪
+If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://example.org/projects/writing/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>http://example.org/projects/writing/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
+To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>http://example.org/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>http://example.org/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>http://example.org/blog/startup-ipsum/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>http://example.org/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Ipsum</title>
+      <link>http://example.org/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>http://example.org/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>How to install wordpress in your PC</title>
+      <link>http://example.org/blog/how-to-make-website-resp/</link>
+      <pubDate>Sun, 29 Oct 2017 13:52:20 +0100</pubDate>
+      
+      <guid>http://example.org/blog/how-to-make-website-resp/</guid>
+      <description>For intsall wordpress in your pc you have to do 4 steps :  Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
+    </item>
+    
+    <item>
+      <title>How to install wordpress in your PC</title>
+      <link>http://example.org/post/how-to-make-website-resp/</link>
+      <pubDate>Sun, 29 Oct 2017 13:52:20 +0100</pubDate>
+      
+      <guid>http://example.org/post/how-to-make-website-resp/</guid>
+      <description>For intsall wordpress in your pc you have to do 4 steps :  Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
+    </item>
+    
+    <item>
+      <title>Hi All</title>
+      <link>http://example.org/blog/hi-all/</link>
+      <pubDate>Sun, 29 Oct 2017 13:10:10 +0100</pubDate>
+      
+      <guid>http://example.org/blog/hi-all/</guid>
+      <description>It&amp;rsquo;s Jaber Zarif My name is Jaber Zarif, Tunisian and above all a Front-End Web Developer. Interested in JS and CSS technologies.</description>
+    </item>
+    
+    <item>
+      <title>Hi All</title>
+      <link>http://example.org/post/hi-all/</link>
+      <pubDate>Sun, 29 Oct 2017 13:10:10 +0100</pubDate>
+      
+      <guid>http://example.org/post/hi-all/</guid>
+      <description>It&amp;rsquo;s Jaber Zarif My name is Jaber Zarif, Tunisian and above all a Front-End Web Developer. Interested in JS and CSS technologies.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>In the Contact section of Introduction, you may optionally display the current time in your preferred timezone.
+This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the config file.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hi, I&amp;rsquo;m Jaber Zarif a junior Font-End Developper
+I was born in Tozeur</description>
+    </item>
+    
+  </channel>
+</rss>

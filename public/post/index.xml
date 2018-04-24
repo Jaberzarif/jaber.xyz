@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aerial</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Aerial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jaber Zarif 2018 - </copyright>
+    <lastBuildDate>Sun, 29 Oct 2017 13:52:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install wordpress in your PC</title>
+      <link>http://example.org/post/how-to-make-website-resp/</link>
+      <pubDate>Sun, 29 Oct 2017 13:52:20 +0100</pubDate>
+      
+      <guid>http://example.org/post/how-to-make-website-resp/</guid>
+      <description>For intsall wordpress in your pc you have to do 4 steps :  Downlad wordpress from Wordpress and unpack it. Create a database for WordPress on your web server ( for exemple Xampp). Drop the WordPress files to the folder htdocs. Open localhost:8080 and follow the instructions of the installer, and confirm.  There you go ! WordPress should now be installed.</description>
+    </item>
+    
+    <item>
+      <title>Hi All</title>
+      <link>http://example.org/post/hi-all/</link>
+      <pubDate>Sun, 29 Oct 2017 13:10:10 +0100</pubDate>
+      
+      <guid>http://example.org/post/hi-all/</guid>
+      <description>It&amp;rsquo;s Jaber Zarif My name is Jaber Zarif, Tunisian and above all a Front-End Web Developer. Interested in JS and CSS technologies.</description>
+    </item>
+    
+  </channel>
+</rss>
