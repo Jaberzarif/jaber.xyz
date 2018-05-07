@@ -163,7 +163,7 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
 }
@@ -301,7 +301,7 @@ h6 {
 }
 
 p.small {
-	color: #bbb;
+	color: #2c3e50;
 	font-size: 14px;
 	line-height: 1.5;
 	display: block;
@@ -676,14 +676,14 @@ h2.month {
 }
 
 a.symbol {
-    color: #cdd4da;
+    color: #0E448C;
     font-size: 2rem;
     text-decoration: none;
     margin-right: 0.3rem;
 }
 
 a.symbol:hover {
-    color: #BCD4DA;
+    color: #1D67AB;
 }
 
 code {
